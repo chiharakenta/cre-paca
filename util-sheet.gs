@@ -1,4 +1,5 @@
 // 本日のテストに対応するコメントをシート上から取得
+// まだビジネス上必要なかったため、一時的に使用停止
 /*
 function getCommentFromToday(folderName, fileName, isExam, isAnswer) {
   var sheet = SpreadsheetApp.getActiveSpreadsheet().getSheetByName(folderName);
